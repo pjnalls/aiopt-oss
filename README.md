@@ -1,2 +1,2 @@
 # aiopt-oss
-Artificial Intelligence of the People's Technology, Open Source Software: Generative pre-trained transformers to put the power of AI in the care of the people.
+AI of the People's Technology (Open Source Software): Code for generative pre-trained transformers (GPT) to put the power of AI into the hands of the people.
